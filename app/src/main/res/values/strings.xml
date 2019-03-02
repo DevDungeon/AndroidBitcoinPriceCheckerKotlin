@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kotlin Bitcoin Price Checker</string>
+    <string name="action_settings">Settings</string>
+    <string name="checking_now">Checking Bitcoin price now…</string>
+    <string name="price_text">$%s</string>
+    <string name="n_a">N/A</string>
+    <string name="bitcoin_price">Bitcoin Price</string>
+</resources>
